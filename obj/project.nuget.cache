@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bFTwjabe+CA=",
+  "dgSpecHash": "AeqoVHtVKnk=",
   "success": true,
   "projectFilePath": "D:\\STUDY\\Spring_2026\\COMP1844-KhanhNguyen\\aspvue\\ServerApi\\ServerApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\trung tin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.14\\microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
-    "C:\\Users\\trung tin\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\trung tin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\trung tin\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
   ],
   "logs": []
 }
