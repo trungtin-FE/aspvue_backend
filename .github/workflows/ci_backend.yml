@@ -1,6 +1,9 @@
 name: Backend CI Pipeline (Feature to Develop PR)
 
 on:
+  push:
+    branches:
+      - develop
   pull_request:
     branches:
       - develop
